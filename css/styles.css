@@ -1,6 +1,4 @@
 .container {
-	border: 3px solid rgb(252, 172, 42);
-	border-radius: 100px;
 	margin: 10px auto;
 	overflow: auto;
 	text-align: center;
@@ -30,7 +28,7 @@ img { width:245px;
 
 }
 button {
-	background: rgb(249, 189, 92);
+	background: rgb(215, 207, 207));
 	border: 2px solid #333;
 	border-radius: 4px;
 	cursor: pointer;
